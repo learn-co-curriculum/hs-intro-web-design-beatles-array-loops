@@ -25,7 +25,7 @@ But what if the array was reallllllly big? Think about Twitter keeping an array 
 We're going to use a `for` loop to loop over an array.
 
 ```js
-for (i = 0, i < numbers.length; i++ ){
+for (var i = 0; i < numbers.length; i++  ){
     var sum = numbers[i] + 5;
     console.log(sum);
 }
