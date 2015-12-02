@@ -53,3 +53,5 @@ Now, the `beatles` array is storing four arrays. Each nested array contains the 
 Given this array, can you figure out how to loop over the main array, and then the nested arrays to `console.log` "Paul McCartney played Bass Guitar", etc. for each Beatle.
 
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-beatles-array-loops' data-visibility='hidden'>View this lesson on Learn.co</a>
