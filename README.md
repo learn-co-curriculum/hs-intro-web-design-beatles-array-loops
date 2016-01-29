@@ -54,4 +54,4 @@ Given this array, can you figure out how to loop over the main array, and then t
 
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-beatles-array-loops' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-beatles-array-loops' title='Looping Beatles'>Looping Beatles</a> on Learn.co and start learning to code for free.</p>
